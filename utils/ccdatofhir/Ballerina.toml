@@ -6,3 +6,9 @@ distribution = "2201.12.2"
 authors = ["Ballerina"]
 keywords = ["Healthcare", "FHIR", "R4", "Utils", "CCDAtoFHIR"]
 repository = "https://github.com/ballerina-platform/module-ballerinax-health.fhir.r4"
+
+[[dependency]]
+org = "ballerinax"
+name = "health.fhir.r4"
+version = "6.0.1"
+repository="local"
